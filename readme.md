@@ -94,3 +94,5 @@ Before touching any cables or commands, make sure your device is compatible and 
 ### Phase 6: First Boot Success
  * Your phone will now boot up. **The first boot can take anywhere from 5 to 15 minutes** because Android is optimizing apps and building internal caches for the new architecture.
  * Do not panic if you see the boot logo for a while. Once it loads, complete the standard Android setup wizard, and enjoy your new GSI!
+
+Not every gsi can be compatible with your device. Try others if one does not work.
