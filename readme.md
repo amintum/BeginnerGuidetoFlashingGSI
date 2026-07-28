@@ -85,6 +85,7 @@ Before touching any cables or commands, make sure your device is compatible and 
  1. Once the system image finishes flashing successfully, reboot your device directly into recovery mode:
    ```text
    fastboot reboot recovery
+   fastboot -w
    ```
  2. Once your phone boots into recovery mode (Stock Recovery or TWRP/OrangeFox):
    * Navigate using your volume keys and select **Wipe data/factory reset** (or format data).
@@ -96,3 +97,5 @@ Before touching any cables or commands, make sure your device is compatible and 
  * Do not panic if you see the boot logo for a while. Once it loads, complete the standard Android setup wizard, and enjoy your new GSI!
 
 Not every gsi can be compatible with your device. Try others if one does not work.
+
+**[Telegram Support Group](https://t.me/amintumgsi)**
